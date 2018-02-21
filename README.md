@@ -7,8 +7,8 @@ evening|day
 ---------|-----------  
 -!Hi [:)))]|![Hello] [:)]  
 
-[:)))]: //https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjjr-_T8LfZAhVB1GMKHZFwCGsQjRx6BAgAEAY&url=http%3A%2F%2Fwww.gnet.org%2Fboost-your-vitamin-d-to-make-everyday-a-sunny-day%2F&psig=AOvVaw3D1MGirJl28WCgn-sGvAoZ&ust=1519330665179545
-[:)]: //http://img.cultrechi.ru/pravilno_sdorovatca/privetstvie.jpg
+[:)))]: //https://drive.google.com/open?id=1ljxGCItjO3z5O4HtzfCSdZ-7KNh1QDub
+[:)]: //https://drive.google.com/open?id=1-ef7Q8wWNKbiovPSRQ-BOrgsphKWLyHX
 ***
 ***Active students***  
 __Happy Hanging Out__  
