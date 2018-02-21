@@ -5,7 +5,7 @@ laboratory0
 ***
 evening|day  
 ---------|-----------  
-[![Alt text](//placehold.it/150x100)](https://drive.google.com/open?id=1ljxGCItjO3z5O4HtzfCSdZ-7KNh1QDub)|[![Alt text](//placehold.it/150x100)](https://drive.google.com/open?id=1-ef7Q8wWNKbiovPSRQ-BOrgsphKWLyHX)  
+[![Hi](//placehold.it/150x100)](https://drive.google.com/open?id=1ljxGCItjO3z5O4HtzfCSdZ-7KNh1QDub)|[![Hello](//placehold.it/150x100)](https://drive.google.com/open?id=1-ef7Q8wWNKbiovPSRQ-BOrgsphKWLyHX)  
 ***
 ***Active students***  
 __Happy Hanging Out__  
